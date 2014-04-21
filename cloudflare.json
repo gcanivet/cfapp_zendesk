@@ -34,37 +34,37 @@
                 "type": "string",
                 "name": "dropboxID",
                 "description": "Please specify the dropboxID",
-                "id": "dropboxID",
+                "id": "dropboxID"
             },
 	    {
                 "type": "string",
                 "name": "url",
                 "description": "Please specify the url",
-                "id": "url",
+                "id": "url"
             },
 	    {
                 "type": "string",
                 "name": "tabTooltip",
                 "description": "Please specify the tabTooltip",
-                "id": "tabTooltip",
+                "id": "tabTooltip"
             },
 	    {
                 "type": "string",
                 "name": "tabImageURL",
                 "description": "Please specify the tabImageURL",
-                "id": "tabImageURL",
+                "id": "tabImageURL"
             },
 	    {
                 "type": "string",
                 "name": "tabColor",
                 "description": "Please specify the tabColor",
-                "id": "tabColor",
+                "id": "tabColor"
             },
 	    {
                 "type": "string",
                 "name": "tabPosition",
                 "description": "Please specify the tabPosition",
-                "id": "tabPosition",
+                "id": "tabPosition"
             }
         ]
     }
