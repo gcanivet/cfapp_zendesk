@@ -1,6 +1,6 @@
 {
-    "name": "ZenDesk Feedback Tab",
-    "description": "Add a ZenDesk Feedback Tab to your Site",
+    "name": "Zendesk Feedback Tab",
+    "description": "Add a Zendesk Feedback Tab to your Site",
     "version": "0.0.1",
     "category": "webmaster",
     "main": "public/javascripts/zendesk.js", 
