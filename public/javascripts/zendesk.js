@@ -13,19 +13,19 @@ CloudFlare.define("zendesk", ["zendesk/config", "cloudflare/jquery1.7"], functio
       		});
 			$("document").ready(function(){ 
 			 //https://assets.zendesk.com/external/zenbox/v2.6/zenbox.css 
-     	  	 $("#zenbox_tab").css("border", "solid 1px");
-     		 $("#zenbox_tab").css("cursor", "pointer");
-     		 $("#zenbox_tab").css("position", "fixed");
-     		 $("#zenbox_tab").css("top", "23%");
-     	 	 $("#zenbox_tab").css("z-index", "10000");
+     	  	 	$("#zenbox_tab").css("border", "solid 1px");
+     		 	$("#zenbox_tab").css("cursor", "pointer");
+     		 	$("#zenbox_tab").css("position", "fixed");
+     		 	$("#zenbox_tab").css("top", "23%");
+     	 	 	$("#zenbox_tab").css("z-index", "10000");
 
-			 $(".ZenboxTabLeft").css("left", "0");
-    		 $(".ZenboxTabLeft").css("background-position", "right 0");
-    		 $(".ZenboxTabRight").css("right", "0");
-    		 $(".ZenboxTabRight").css("background-position", "left 0");
+			$(".ZenboxTabLeft").css("left", "0");
+    		 	$(".ZenboxTabLeft").css("background-position", "right 0");
+    		 	$(".ZenboxTabRight").css("right", "0");
+    		 	$(".ZenboxTabRight").css("background-position", "left 0");
       
 			 $("#zenbox_tab:hover").css("background-color", "#444");
-    		 $("#zenbox_tab img").css("display", "block");
+    		 	 $("#zenbox_tab img").css("display", "block");
 
 			 $("#zenbox_overlay").css("height", "100%");
 			 $("#zenbox_overlay").css("left", "0");
@@ -71,7 +71,7 @@ CloudFlare.define("zendesk", ["zendesk/config", "cloudflare/jquery1.7"], functio
    			 $("#zenbox_scrim").css("left", "0");
    			 $("#zenbox_scrim").css("position", "absolute");
    			 $("#zenbox_scrim").css("opacity", "0.42");
-    		 $("#zenbox_scrim").css("top", "0");
+    		 	 $("#zenbox_scrim").css("top", "0");
    			 $("#zenbox_scrim").css("width", "100%");
 			 $("#zenbox_scrim").css("z-index:", "1");
 			});
